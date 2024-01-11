@@ -1,0 +1,25 @@
+<VI syntaxVersion=11 LVversion=0 revision=0 name="Test Class.ctl">
+<TITLE><NO_TITLE name="Test Class.ctl"></TITLE>
+<HELP_PATH></HELP_PATH>
+<HELP_TAG></HELP_TAG>
+<RTM_PATH type="default"></RTM_PATH>
+<DESC></DESC>
+<CONTENT>
+	<GROUPER>
+		<PARTS>
+		</PARTS></GROUPER>
+	<CONTROL ID=83 type="Cluster" name="Cluster">
+		<DESC></DESC>
+		<TIP></TIP>
+		<PARTS>
+		</PARTS>
+		<CONTENT>
+			<GROUPER>
+				<PARTS>
+				</PARTS></GROUPER>
+		</CONTENT>
+	</CONTROL>
+</CONTENT>
+</VI>
+
+

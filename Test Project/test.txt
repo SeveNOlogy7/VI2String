@@ -1,0 +1,40 @@
+<VI syntaxVersion=11 LVversion=22308000 revision=3 name="Test Library.lvlib:test.vi">
+<TITLE><NO_TITLE name="Test Library.lvlib:test.vi"></TITLE>
+<HELP_PATH></HELP_PATH>
+<HELP_TAG></HELP_TAG>
+<RTM_PATH type="default"></RTM_PATH>
+<DESC></DESC>
+<CONTENT>
+	<GROUPER>
+		<PARTS>
+		</PARTS></GROUPER>
+	<CONTROL ID=80 type="Numeric" name="x">
+		<DESC></DESC>
+		<TIP></TIP>
+		<PARTS>
+			<PART ID=82 order=0 type="Caption"><LABEL><STEXT><FONT size=23>x</STEXT></LABEL></PART>
+		</PARTS>
+	</CONTROL>
+	<CONTROL ID=80 type="Numeric" name="y">
+		<DESC></DESC>
+		<TIP></TIP>
+		<PARTS>
+			<PART ID=82 order=0 type="Caption"><LABEL><STEXT><FONT size=23>y</STEXT></LABEL></PART>
+		</PARTS>
+	</CONTROL>
+	<CONTROL ID=80 type="Numeric" name="x+y">
+		<DESC></DESC>
+		<TIP></TIP>
+		<PARTS>
+			<PART ID=82 order=0 type="Caption"><LABEL><STEXT><FONT size=23>x+y</STEXT></LABEL></PART>
+		</PARTS>
+	</CONTROL>
+</CONTENT>
+<BDCONTENT>
+	<NODE ID=47 type="Function" primID=20444441 primName="Add">
+		<DESC></DESC>
+	</NODE>
+</BDCONTENT>
+</VI>
+
+

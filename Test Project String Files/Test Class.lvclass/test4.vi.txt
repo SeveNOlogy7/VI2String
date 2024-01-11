@@ -1,0 +1,16 @@
+<VI syntaxVersion=11 LVversion=22308000 revision=1 name="Test Class.lvclass:test4.vi">
+<TITLE><NO_TITLE name="Test Class.lvclass:test4.vi"></TITLE>
+<HELP_PATH></HELP_PATH>
+<HELP_TAG></HELP_TAG>
+<RTM_PATH type="default"></RTM_PATH>
+<DESC></DESC>
+<CONTENT>
+	<GROUPER>
+		<PARTS>
+		</PARTS></GROUPER>
+</CONTENT>
+<BDCONTENT>
+</BDCONTENT>
+</VI>
+
+
